@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    "../plugins/words-java/plugin.json",
+    "../plugins/tex-java/plugin.json"
+  ],
+  "compositions": [
+    "total-java.json"
+  ]
+}

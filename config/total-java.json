@@ -1,0 +1,9 @@
+{
+  "composition_id": "aspose.total.java",
+  "language": "java",
+  "members": [
+    "aspose.words.java",
+    "aspose.tex.java"
+  ],
+  "owns_sources": false
+}
